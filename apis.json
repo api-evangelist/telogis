@@ -1,0 +1,96 @@
+{
+    "name": "Telogis",
+    "description": "Our GPS fleet management software can help your business reduce fuel costs, improve productivity and customer service. Learn more about how our easy to use dashboards can help you monitor vehicle and driver performance, organize your fieldworkers with ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1362-telogis.jpg",
+    "tags": [
+        "fleet",
+        "have api",
+        "javascript",
+        "logistics",
+        "optimization",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/telogis\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Telogis",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1362-telogis.jpg",
+            "humanURL": "http:\/\/www.telogis.com\/solutions\/geobase\/geostream-silverstream\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/telogis-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.telogis.com\/solutions\/geobase\/geostream-silverstream\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/telogis"
+        },
+        {
+            "type": "Email",
+            "url": "reveal.support@fleetmatics.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@telogis.com"
+        },
+        {
+            "type": "Email",
+            "url": "work.support@fleetmatics.com"
+        },
+        {
+            "type": "Email",
+            "url": "supportAUS@fleetmatics.com"
+        },
+        {
+            "type": "Email",
+            "url": "ehsupport@telogis.com"
+        },
+        {
+            "type": "Email",
+            "url": "infoFRA@fleetmatics.com"
+        },
+        {
+            "type": "Email",
+            "url": "supportfr@fleetmatics.com"
+        },
+        {
+            "type": "Email",
+            "url": "infoNL@fleetmatics.com"
+        },
+        {
+            "type": "Email",
+            "url": "supportNL@fleetmatics.com"
+        },
+        {
+            "type": "Email",
+            "url": "infoIRL@fleetmatics.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/telogis"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/VerizonConnect"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/telogis"
+        }
+    ]
+}
